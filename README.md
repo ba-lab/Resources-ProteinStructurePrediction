@@ -1,4 +1,7 @@
-# Source code
+# Newspaper Articles
+* https://www.nature.com/articles/d41586-019-01357-6
+
+# Source codes
 ## Contact prediction
 * 2019 - [DEEPCON](https://github.com/ba-lab/DEEPCON)
 * 2018 - [DEEPCONTACT](https://github.com/largelymfs/deepcontact) by Yang Liu
