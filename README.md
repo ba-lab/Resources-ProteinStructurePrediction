@@ -11,4 +11,7 @@
 * 2017 - [DNCON2](https://github.com/multicom-toolbox/DNCON2)
 * 2014 - [MetaPSICOV](https://github.com/psipred/metapsicov)
 
+## MSA
+* 2019 - [DeepMSA](https://zhanglab.ccmb.med.umich.edu/DeepMSA/)
+
 
