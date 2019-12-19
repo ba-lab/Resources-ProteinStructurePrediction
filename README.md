@@ -5,8 +5,10 @@
 * Molecular Biology for Computer Scientists [by Lawrence Hunter](https://www.cs.princeton.edu/~mona/IntroMaterials/hunter-bio-for-CS.pdf)
 
 # Deep Learning
-* Andrew Senior's talk on AlphaFold (DeepMind) [youtube](https://www.youtube.com/watch?v=uQ1uVbrIv-Q)
+* Dr. Andrew Senior's talk on AlphaFold (DeepMind) [youtube](https://www.youtube.com/watch?v=uQ1uVbrIv-Q)
 * AI protein-folding algorithms solve structures faster than ever [Nature](https://www.nature.com/articles/d41586-019-01357-6)
+* Dr. Jinbo Xu's talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=qAm22TRtgOU)
+* My talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=HqjjZHGw4Ac)
 
 # Newspaper Articles
 * https://www.nature.com/articles/d41586-019-01357-6
