@@ -11,6 +11,7 @@
 * AI protein-folding algorithms solve structures faster than ever [Nature](https://www.nature.com/articles/d41586-019-01357-6)
 * Dr. Jinbo Xu's talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=qAm22TRtgOU)
 * My talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=HqjjZHGw4Ac)
+* Interview with The Creator of Keras, AI Researcher: [François Chollet](https://hackernoon.com/interview-with-the-creator-of-keras-ai-researcher-fran%C3%A7ois-chollet-823cf1099b7c)
 
 # Newspaper articles & blogs
 * [Nature](https://www.nature.com/articles/d41586-019-01357-6)
