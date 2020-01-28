@@ -1,3 +1,7 @@
+```
+There are some category of problems that require industry-scale training resources, for sure. But there is no shortage of problems where a single GPU is all you need to make significant progress. The main thing that’s holding back AI research right now is not a lack of hardware, it’s a lack of diversity of thought. If you have limited resources, don’t spend your time worrying about GPUs, rather, spend it worrying whether you’re working on the right problem and asking the right questions. - François Chollet.
+```
+
 # Introduction
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
 * Our Secret Universe: The Hidden Life of the Cell [at IMDB](https://www.imdb.com/title/tt2525604/)
