@@ -10,8 +10,14 @@
 * Dr. Jinbo Xu's talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=qAm22TRtgOU)
 * My talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=HqjjZHGw4Ac)
 
-# Newspaper articles
+# Newspaper articles & blogs
 * https://www.nature.com/articles/d41586-019-01357-6
+* Mohammed AlQuraishi's blog [article](https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/)
+* [Science](https://www.sciencemag.org/news/2018/12/google-s-deepmind-aces-protein-folding)
+* [The Guardian](https://www.theguardian.com/science/2018/dec/02/google-deepminds-ai-program-alphafold-predicts-3d-shapes-of-proteins)
+* [Forbes](https://www.forbes.com/sites/samshead/2018/12/03/deepmind-starts-to-show-how-ai-can-be-used-to-solve-scientific-problems)
+* [The Newyork Times](https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html)
+* [The DeepMind blog](https://deepmind.com/blog/alphafold)
 
 # Contact prediction
 * 2019 - [DEEPCON](https://github.com/ba-lab/DEEPCON)
