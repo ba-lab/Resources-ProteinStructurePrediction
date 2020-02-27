@@ -21,6 +21,7 @@
 * [Forbes](https://www.forbes.com/sites/samshead/2018/12/03/deepmind-starts-to-show-how-ai-can-be-used-to-solve-scientific-problems)
 * [The Newyork Times](https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html)
 * [The DeepMind blog](https://deepmind.com/blog/alphafold)
+* [Unsupervised learning is the future](https://moalquraishi.wordpress.com/2019/04/01/the-future-of-protein-science-will-not-be-supervised/)
 
 # Contact prediction
 * 2019 - [DEEPCON](https://github.com/ba-lab/DEEPCON)
