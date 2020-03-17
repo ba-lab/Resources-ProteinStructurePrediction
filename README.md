@@ -1,4 +1,4 @@
-"There are some category of problems that require industry-scale training resources, for sure. But there is no shortage of problems where a single GPU is all you need to make significant progress. The main thing that’s holding back AI research right now is not a lack of hardware, it’s a lack of diversity of thought. If you have limited resources, don’t spend your time worrying about GPUs, rather, spend it worrying whether you’re working on the right problem and asking the right questions." - François Chollet.
+In this page, I have collected the links to useful resources for those reseaching (or interested) in the field of protein distance prediction. Please contact me if you have any questions.
 
 # Introduction
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
@@ -40,3 +40,5 @@
 * "Achieving Your Childhood Dreams" by Prof. Randy Paush's [youtube](https://www.youtube.com/watch?v=ji5_MqicxSo)
 * Nature's guide for mentors [article](https://www.nature.com/articles/447791a)
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
+
+"There are some category of problems that require industry-scale training resources, for sure. But there is no shortage of problems where a single GPU is all you need to make significant progress. The main thing that’s holding back AI research right now is not a lack of hardware, it’s a lack of diversity of thought. If you have limited resources, don’t spend your time worrying about GPUs, rather, spend it worrying whether you’re working on the right problem and asking the right questions." - François Chollet.
