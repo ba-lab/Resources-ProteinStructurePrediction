@@ -42,6 +42,6 @@ In this page, I have collected links to some useful resources for those reseachi
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 
 # Presentation
-* [Tips for reating a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
+* [Tips for preparing a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
 
 "There are some category of problems that require industry-scale training resources, for sure. But there is no shortage of problems where a single GPU is all you need to make significant progress. The main thing that’s holding back AI research right now is not a lack of hardware, it’s a lack of diversity of thought. If you have limited resources, don’t spend your time worrying about GPUs, rather, spend it worrying whether you’re working on the right problem and asking the right questions." - François Chollet.
