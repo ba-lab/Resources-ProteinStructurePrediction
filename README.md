@@ -44,6 +44,7 @@ In this page, I have collected links to some useful resources for those reseachi
 # For graduate students
 * [Tips for preparing a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
 * [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
+* [James Hayton: How to get through your PhD without going insane](https://www.youtube.com/watch?v=4MkRMp3roKQ&list=LLIuidueYpCwUTwc5dsM4o9g&index=161&t=0s)
 
 ---------
 "There are some category of problems that require industry-scale training resources, for sure. But there is no shortage of problems where a single GPU is all you need to make significant progress. The main thing that’s holding back AI research right now is not a lack of hardware, it’s a lack of diversity of thought. If you have limited resources, don’t spend your time worrying about GPUs, rather, spend it worrying whether you’re working on the right problem and asking the right questions." - François Chollet.
