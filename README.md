@@ -46,5 +46,19 @@ Here, I have collected some useful resources for those reseaching (or interested
 * [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 * [James Hayton: How to get through your PhD without going insane](https://www.youtube.com/watch?v=4MkRMp3roKQ&list=LLIuidueYpCwUTwc5dsM4o9g&index=161&t=0s)
 
----------
-"There are some category of problems that require industry-scale training resources, for sure. But there is no shortage of problems where a single GPU is all you need to make significant progress. The main thing that’s holding back AI research right now is not a lack of hardware, it’s a lack of diversity of thought. If you have limited resources, don’t spend your time worrying about GPUs, rather, spend it worrying whether you’re working on the right problem and asking the right questions." - François Chollet.
+# PhD motivation
+* http://www.cs.unc.edu/~azuma/hitch4.html  
+* https://www.youtube.com/watch?v=4MkRMp3roKQ  
+* http://m.cacm.acm.org/magazines/2013/7/165494-ph-d-students-must-break-away-from-undergraduate-mentality/fulltext  
+* http://sarvranjan.quora.com/What-a-Ph-D-is-Synopsis-of-a-Ph-D-candidate  
+* http://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf  
+* http://matt.might.net/articles/successful-phd-students/  
+* http://matt.might.net/articles/ways-to-fail-a-phd/  
+* http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/  
+* http://www.cs.virginia.edu/~robins/YouAndYourResearch.html  
+* http://jamesclear.quora.com/How-to-Stay-Focused-When-You-Get-Bored-Working-Toward-Your-Goals  
+* http://graduationwisdom.com/speeches/topten.htm  
+* http://www.nature.com/news/make-the-most-of-phds-1.18915  
+
+
+
