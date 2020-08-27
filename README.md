@@ -1,4 +1,4 @@
-In this page, I have collected links to some useful resources for those reseaching (or interested) in the field of protein distance prediction. Please contact me if you have any questions.
+Here, I have collected some useful resources for those reseaching (or interested) in the field of protein distance prediction.
 
 # Introduction
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
