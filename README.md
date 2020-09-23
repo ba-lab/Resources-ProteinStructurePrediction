@@ -1,5 +1,14 @@
 Here, I have collected some useful resources for those reseaching (or interested) in the field of protein distance prediction.
 
+# General
+* "Instead of ‘finding your passion,’ try developing it", at [https://news.stanford.edu/](https://news.stanford.edu/press-releases/2018/06/18/find-passion-may-bad-advice/)
+* "10 reasons to ignore computer science degrees" at [cio.com](https://www.cio.com/article/3293010/10-reasons-to-ignore-computer-science-degrees.html)
+
+# UMSL
+* [Undergraduate Research Symposium](https://www.umsl.edu/divisions/artscience/undg-research/URSW.html)
+* [Graduate Research Fair](https://www.umsl.edu/gradschool/events/grad-research-fair.html)
+* [prepare.ai](https://prepare.ai/conference/)
+
 # Introduction
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
 * Our Secret Universe: The Hidden Life of the Cell [at IMDB](https://www.imdb.com/title/tt2525604/)
@@ -45,6 +54,8 @@ Here, I have collected some useful resources for those reseaching (or interested
 * [Tips for preparing a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
 * [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 * [James Hayton: How to get through your PhD without going insane](https://www.youtube.com/watch?v=4MkRMp3roKQ&list=LLIuidueYpCwUTwc5dsM4o9g&index=161&t=0s)
+* [Reading a Computer Science Research Paper](./reading_cs_paper.pdf)
+* [So you're writing a paper](https://www.nature.com/articles/nmeth.4532)
 
 # PhD motivation
 * http://www.cs.unc.edu/~azuma/hitch4.html  
