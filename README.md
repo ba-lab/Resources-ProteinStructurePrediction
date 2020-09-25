@@ -1,4 +1,4 @@
-Here, I have collected some useful resources for those reseaching (or interested) in the field of protein distance prediction.
+Some useful resources for my students (and others).
 
 # General
 * "Instead of ‘finding your passion,’ try developing it", at [https://news.stanford.edu/](https://news.stanford.edu/press-releases/2018/06/18/find-passion-may-bad-advice/)
@@ -51,6 +51,7 @@ Here, I have collected some useful resources for those reseaching (or interested
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 
 # For graduate students
+* [Free book on "Email Etiquette: Netiquette for the Information Age"](https://www.amazon.com/Email-Etiquette-Netiquette-Information-Age-ebook/dp/B0057CTXGS)
 * [Tips for preparing a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
 * [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 * [James Hayton: How to get through your PhD without going insane](https://www.youtube.com/watch?v=4MkRMp3roKQ&list=LLIuidueYpCwUTwc5dsM4o9g&index=161&t=0s)
