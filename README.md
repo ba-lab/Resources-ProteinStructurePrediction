@@ -1,4 +1,4 @@
-# Some useful resources for my students (and others)
+# Some useful resources
 
 ## For graduate and undergraduate students
 * [Free book on "Email Etiquette: Netiquette for the Information Age"](https://www.amazon.com/Email-Etiquette-Netiquette-Information-Age-ebook/dp/B0057CTXGS)
