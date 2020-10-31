@@ -73,4 +73,5 @@
 * [Graduate Research Fair](https://www.umsl.edu/gradschool/events/grad-research-fair.html)
 * [prepare.ai](https://prepare.ai/conference/)
 
+## Headfirst series books
 
