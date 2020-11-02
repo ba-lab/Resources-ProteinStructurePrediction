@@ -77,6 +77,9 @@
 
 ## Python and Numpy
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-* [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier.
-* [Matplotlib](https://matplotlib.org/Matplotlib.pdf)
+* [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier
+
+## Matplotlib
+* [Matplotlib official manual](https://matplotlib.org/Matplotlib.pdf)
+* [Chapter 4: Visualization with Matplotlib](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) of the book "Python Data Science Handbook"
 
