@@ -78,4 +78,5 @@
 ## Python and Numpy
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier.
+* [Matplotlib](https://matplotlib.org/Matplotlib.pdf)
 
