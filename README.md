@@ -3,7 +3,6 @@
 ## Aspirations
 * "You and Your Research" by Richard Hamming, [transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * "Achieving Your Childhood Dreams" by Prof. Randy Paush's [youtube](https://www.youtube.com/watch?v=ji5_MqicxSo)
-* Nature's guide for mentors [article](https://www.nature.com/articles/447791a)
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 
 ## For graduate and undergraduate students
