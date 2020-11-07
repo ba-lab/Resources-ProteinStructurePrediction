@@ -1,5 +1,11 @@
 # Useful resources
 
+## Aspirations
+* "You and Your Research" by Richard Hamming, [transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* "Achieving Your Childhood Dreams" by Prof. Randy Paush's [youtube](https://www.youtube.com/watch?v=ji5_MqicxSo)
+* Nature's guide for mentors [article](https://www.nature.com/articles/447791a)
+* Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
+
 ## For graduate and undergraduate students
 * [Free book on "Email Etiquette: Netiquette for the Information Age"](https://www.amazon.com/Email-Etiquette-Netiquette-Information-Age-ebook/dp/B0057CTXGS)
 * [Tips for preparing a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
@@ -46,12 +52,6 @@
 
 ## MSA
 * 2019 - [DeepMSA](https://zhanglab.ccmb.med.umich.edu/DeepMSA/)
-
-## Aspirations
-* "You and Your Research" by Richard Hamming, [transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-* "Achieving Your Childhood Dreams" by Prof. Randy Paush's [youtube](https://www.youtube.com/watch?v=ji5_MqicxSo)
-* Nature's guide for mentors [article](https://www.nature.com/articles/447791a)
-* Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 
 ## UMSL
 * [Undergraduate Research Symposium](https://www.umsl.edu/divisions/artscience/undg-research/URSW.html)
