@@ -53,21 +53,6 @@
 * Nature's guide for mentors [article](https://www.nature.com/articles/447791a)
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 
-## PhD motivation
-* [James Hayton: How to get through your PhD without going insane](https://www.youtube.com/watch?v=4MkRMp3roKQ&list=LLIuidueYpCwUTwc5dsM4o9g&index=161&t=0s)
-* http://www.cs.unc.edu/~azuma/hitch4.html  
-* https://www.youtube.com/watch?v=4MkRMp3roKQ  
-* http://m.cacm.acm.org/magazines/2013/7/165494-ph-d-students-must-break-away-from-undergraduate-mentality/fulltext  
-* http://sarvranjan.quora.com/What-a-Ph-D-is-Synopsis-of-a-Ph-D-candidate  
-* http://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf  
-* http://matt.might.net/articles/successful-phd-students/  
-* http://matt.might.net/articles/ways-to-fail-a-phd/  
-* http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/  
-* http://www.cs.virginia.edu/~robins/YouAndYourResearch.html  
-* http://jamesclear.quora.com/How-to-Stay-Focused-When-You-Get-Bored-Working-Toward-Your-Goals  
-* http://graduationwisdom.com/speeches/topten.htm  
-* http://www.nature.com/news/make-the-most-of-phds-1.18915  
-
 ## UMSL
 * [Undergraduate Research Symposium](https://www.umsl.edu/divisions/artscience/undg-research/URSW.html)
 * [Graduate Research Fair](https://www.umsl.edu/gradschool/events/grad-research-fair.html)
