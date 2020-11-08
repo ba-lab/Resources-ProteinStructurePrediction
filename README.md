@@ -1,18 +1,9 @@
-# Useful resources
+# Resources for research
 
 ## Aspirations
 * "You and Your Research" by Richard Hamming, [transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * "Achieving Your Childhood Dreams" by Prof. Randy Paush's [youtube](https://www.youtube.com/watch?v=ji5_MqicxSo)
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
-
-## For graduate and undergraduate students
-* [Free book on "Email Etiquette: Netiquette for the Information Age"](https://www.amazon.com/Email-Etiquette-Netiquette-Information-Age-ebook/dp/B0057CTXGS)
-* [Tips for preparing a poster](https://writing.wisc.edu/handbook/assignments/posterpresentations/#what)
-* [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
-* [Reading a Computer Science Research Paper](./reading_cs_paper.pdf)
-* [So you're writing a paper](https://www.nature.com/articles/nmeth.4532)
-* "Instead of ‘finding your passion,’ try developing it", at [https://news.stanford.edu/](https://news.stanford.edu/press-releases/2018/06/18/find-passion-may-bad-advice/)
-* "10 reasons to ignore computer science degrees" at [cio.com](https://www.cio.com/article/3293010/10-reasons-to-ignore-computer-science-degrees.html)
 
 ## The big picture for protein structure prediction research
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
@@ -26,9 +17,6 @@
 * Dr. Jinbo Xu's talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=qAm22TRtgOU)
 * My talk at ISMB 2019 [youtube](https://www.youtube.com/watch?v=HqjjZHGw4Ac)
 * Interview with The Creator of Keras, AI Researcher: [François Chollet](https://hackernoon.com/interview-with-the-creator-of-keras-ai-researcher-fran%C3%A7ois-chollet-823cf1099b7c)
-
-## Writing
-* How to Write a Good Paper in Computer Science and HowWill It Be Measured by ISI Web of Knowledge [pdf](./How_to_Write_a_Good_Paper.pdf)
 
 ## Newspaper articles & blogs
 * [Nature](https://www.nature.com/articles/d41586-019-01357-6)
