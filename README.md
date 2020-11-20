@@ -57,3 +57,7 @@
 
 ## Reviewing papers
 * [Peer fortress: The scientific battlefield](http://matt.might.net/articles/peer-fortress/)
+
+## Communication
+* [9 Rules For Emailing](https://time.com/3425368/google-email-rules/)
+
