@@ -10,7 +10,7 @@
 ## The big picture for protein structure prediction research
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
 * Our Secret Universe: The Hidden Life of the Cell [at IMDB](https://www.imdb.com/title/tt2525604/)
-* The Big Picture: From Genotype to Phenotype [at ram.org](http://ram.org/compbio/big_picture.html)
+* The Big Picture: From Genotype to Phenotype [at ram.org](http://ram.org/compbio/big_picture.html) / [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2aXNpdGJhZHJpfGd4OjI5YTkyZWFiZTVhMzY1MDg)
 * Molecular Biology for Computer Scientists [by Lawrence Hunter](https://www.cs.princeton.edu/~mona/IntroMaterials/hunter-bio-for-CS.pdf)
 
 ## Deep learning and distance prediction
