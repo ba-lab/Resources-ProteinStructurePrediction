@@ -56,6 +56,7 @@
 * [Chapter 4: Visualization with Matplotlib](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) of the book "Python Data Science Handbook"
 
 ## Reviewing papers
+* [Peer review: a flawed process (the least worst we have)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
 * [Peer fortress: The scientific battlefield](http://matt.might.net/articles/peer-fortress/)
 * [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
