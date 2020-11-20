@@ -55,3 +55,5 @@
 * [Matplotlib official manual](https://matplotlib.org/Matplotlib.pdf)
 * [Chapter 4: Visualization with Matplotlib](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) of the book "Python Data Science Handbook"
 
+## Reviewing papers
+* [Peer fortress: The scientific battlefield](http://matt.might.net/articles/peer-fortress/)
