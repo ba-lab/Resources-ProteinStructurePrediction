@@ -4,6 +4,8 @@
 * "You and Your Research" by Richard Hamming, [transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * "Achieving Your Childhood Dreams" by Prof. Randy Paush's [youtube](https://www.youtube.com/watch?v=ji5_MqicxSo)
 * Peer review: a flawed process (the least worst we have) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
+* <a href="http://www.newyorker.com/magazine/2014/07/21/one-of-a-kind-2">Bertrand's story</a>
+* Prof. Ram Samudrala's&nbsp;<a href="http://ram.org/ramblings/ramblings.html">ramblings</a>
 
 ## The big picture for protein structure prediction research
 * Central Dogma of Molecular Biology, [video1](https://www.youtube.com/watch?v=gG7uCskUOrA) and [video2](https://www.youtube.com/watch?v=KIvBn6gfRgY)
