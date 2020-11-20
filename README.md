@@ -57,6 +57,7 @@
 
 ## Reviewing papers
 * [Peer fortress: The scientific battlefield](http://matt.might.net/articles/peer-fortress/)
+* [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
 ## Communication
 * [9 Rules For Emailing](https://time.com/3425368/google-email-rules/)
